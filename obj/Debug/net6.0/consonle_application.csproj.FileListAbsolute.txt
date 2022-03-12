@@ -1,0 +1,15 @@
+C:\Repositorios\consonle_application\bin\Debug\net6.0\consonle_application.exe
+C:\Repositorios\consonle_application\bin\Debug\net6.0\consonle_application.deps.json
+C:\Repositorios\consonle_application\bin\Debug\net6.0\consonle_application.runtimeconfig.json
+C:\Repositorios\consonle_application\bin\Debug\net6.0\consonle_application.dll
+C:\Repositorios\consonle_application\bin\Debug\net6.0\ref\consonle_application.dll
+C:\Repositorios\consonle_application\bin\Debug\net6.0\consonle_application.pdb
+C:\Repositorios\consonle_application\obj\Debug\net6.0\consonle_application.csproj.AssemblyReference.cache
+C:\Repositorios\consonle_application\obj\Debug\net6.0\consonle_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\consonle_application\obj\Debug\net6.0\consonle_application.AssemblyInfoInputs.cache
+C:\Repositorios\consonle_application\obj\Debug\net6.0\consonle_application.AssemblyInfo.cs
+C:\Repositorios\consonle_application\obj\Debug\net6.0\consonle_application.csproj.CoreCompileInputs.cache
+C:\Repositorios\consonle_application\obj\Debug\net6.0\consonle_application.dll
+C:\Repositorios\consonle_application\obj\Debug\net6.0\ref\consonle_application.dll
+C:\Repositorios\consonle_application\obj\Debug\net6.0\consonle_application.pdb
+C:\Repositorios\consonle_application\obj\Debug\net6.0\consonle_application.genruntimeconfig.cache
